@@ -1,13 +1,8 @@
-# StandUp 🪑🧍
+# 🧍 StandUp (站一会儿)
 
-<p align="center">
-A lightweight macOS menu bar app that helps you build healthier work habits by reminding you to stand up regularly.
-</p>
+A lightweight macOS menu bar app that reminds you to take regular standing breaks during long work sessions.
 
-<p align="center">
-一个简单、轻量的 macOS 菜单栏久坐提醒工具，帮助你在长时间工作时保持规律站立和休息。
-</p>
-
+一款轻量级 macOS 菜单栏应用，帮助你在长时间工作期间定时起身，养成更健康的办公习惯。
 
 ---
 
