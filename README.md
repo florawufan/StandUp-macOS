@@ -69,7 +69,7 @@ StandUp 不会打开复杂的主界面，而是在后台安静运行，在合适
 
 ### 方法 1：下载 Release（推荐）
 
-前往 GitHub Releases 页面：
+前往 GitHub Releases 页面，位于本网页右侧边栏（About下方）：
 
 下载：
 
